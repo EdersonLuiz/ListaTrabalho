@@ -20,3 +20,4 @@ print(False and ((7/2) > 3.5))
 
 #G
 print(math.ceil(2.5) == 3) and (math.sqrt(9) == 3)
+print ("Seu merdaaaaaaa")
